@@ -33,16 +33,6 @@ function App() {
               </div>
             </div>
           </nav>
-        <nav>
-          
-        </nav>
-        <nav>
-          
-        </nav>
-        <nav>
-          
-        </nav>
-      
       <div>
         <Routes>
           <Route path='/first-page' element={<Page1 />} />
